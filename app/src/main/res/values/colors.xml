@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+  <color name="colorTimerBoxBox">#e5e5e5</color>
+  <color name="colorResultsBox">#ffc459</color>
+  <color name="colorTimerBox">#fff42b</color>
+  <color name="colorGridBoxTopLeft">#1668e2</color>
+  <color name="colorGridBoxTopRight">#2dd110</color>
+  <color name="colorGridBoxBottomLeft">#f820fc</color>
+  <color name="colorGridBoxBottomRight">#21d5ed</color>
+</resources>
